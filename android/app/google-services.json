@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "546096928466",
+    "project_id": "zilifesaver",
+    "storage_bucket": "zilifesaver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546096928466:android:81b76296d2e385a667ff0b",
+        "android_client_info": {
+          "package_name": "com.example.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546096928466-6gqa4lqd4fj26gl5ft9o870bma5ff65k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxgb704juxjT2fLIQ03F76j6hWxcElR7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546096928466-6gqa4lqd4fj26gl5ft9o870bma5ff65k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546096928466:android:9edd9367fb7d0edc67ff0b",
+        "android_client_info": {
+          "package_name": "com.example.fyp_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546096928466-6gqa4lqd4fj26gl5ft9o870bma5ff65k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxgb704juxjT2fLIQ03F76j6hWxcElR7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546096928466-6gqa4lqd4fj26gl5ft9o870bma5ff65k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
